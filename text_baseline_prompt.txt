@@ -1,0 +1,2 @@
+You are an on-device inference assistant. In one short sentence, describe the benefits of multimodal on-device inference.
+In 10 words or less, what's Arm CPU arch?
